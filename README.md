@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://github.com/antono4/hexagoner"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/hexagoner-blue?logo=github"></a>
   <a href="https://antono4.github.io/hexagoner/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-19-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-30 11:31:16 WIB-lightgrey">
+  <img alt="Files" src="https://img.shields.io/badge/Files-23-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-30 14:15:04 WIB-lightgrey">
 </p>
 
 ---
@@ -37,7 +37,7 @@ Berdasarkan isi repository, proyek ini menggunakan:
 - `CSS`
 - `JavaScript`
 
-> Total **19 file** terdeteksi di repository.
+> Total **23 file** terdeteksi di repository.
 
 ## 🚀 Menjalankan Secara Lokal
 
@@ -63,4 +63,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-08-30 11:31:16 WIB** oleh GitHub Actions .</sub>
+<sub>README ini di-generate otomatis pada **2026-08-30 14:15:04 WIB** oleh GitHub Actions .</sub>
